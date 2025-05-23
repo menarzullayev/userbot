@@ -1,0 +1,29 @@
+# Maxfiy ma'lumotlar
+.env
+
+# Sessiya fayllari
+*.session
+
+# Python vaqtinchalik fayllari
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*python*-debug.log
+*python*.log
+
+# Muhit papkalari
+.venv/
+venv/
+ENV/
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+.webassets-cache
+
+# Log fayllar
+*.log
+logs/
+
+# IDE sozlamalari (VSCode)
+.vscode/
