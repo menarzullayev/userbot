@@ -3,6 +3,7 @@
 
 # Sessiya fayllari
 *.session
+*.session-journal
 
 # Python vaqtinchalik fayllari
 __pycache__/
@@ -27,3 +28,5 @@ logs/
 
 # IDE sozlamalari (VSCode)
 .vscode/
+
+whitelist_ids.json
